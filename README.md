@@ -1,5 +1,5 @@
 ## ```echo "Hi there 👋"```
-I'm Georg (but please call me George :smiley:), a passionate Linux user (Fedora, Arch, Ubuntu, openSUSE, Solus and much more) and I, well, code.
+I'm Georg (but please call me George :smiley:), a passionate Linux user (Fedora, Arch, Ubuntu, openSUSE, Solus and much more... and also some Macs and one FreeBSD-machone) and I, well, code.
 - 🔭 I’m currently working on:
 - creating my own Linux distro
 - learning Swift
