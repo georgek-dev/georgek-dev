@@ -4,6 +4,8 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=georgek-dev&layout=compact&langs_count=1000&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=georgek-dev&layout=compact&langs_count=1000&theme=light_github)
 
+[![georgek-dev's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=5a32a6e9-6cd4-4913-8813-90c5fb3de52f)](https://wakatime.com/@5a32a6e9-6cd4-4913-8813-90c5fb3de52f)
+
 I'm Georg (but please call me George :smiley:), a passionate Linux user (Fedora, Arch, Ubuntu, openSUSE, Solus and much more... and also some Macs and one FreeBSD machine) and I, well, code.
 - 🔭 I’m currently working on:
 - creating my own Linux distro
